@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="recorder30.com" resolutions="1x" timestamp="1612770074070">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4095228426" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u115.png" crc="451915639" ref="index"/>
+    <file name="u115-r.png" crc="451915639" ref="index"/>
+    <file name="u140-4.png" crc="4201766348" ref="index"/>
+    <file name="u143-4.png" crc="4164606667" ref="index"/>
+    <file name="u739-4.png" crc="58145830" ref="index"/>
+    <file name="u745-4.png" crc="184901158" ref="index"/>
+    <file name="line-crop-u204.png" crc="4220975116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u214-4.png" crc="4183825093" ref="index"/>
+    <file name="u217-4.png" crc="275053170" ref="index"/>
+    <file name="line-crop-u223.png" crc="4220975116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u220-4.png" crc="470487636" ref="index"/>
+    <file name="u230-4.png" crc="376113879" ref="index"/>
+    <file name="line-crop-u233.png" crc="4220975116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u240-4.png" crc="465040103" ref="index"/>
+    <file name="u243-4.png" crc="432604998" ref="index"/>
+    <file name="line-crop-u246.png" crc="4220975116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u253-4.png" crc="4113697526" ref="index"/>
+    <file name="u256-4.png" crc="3769028456" ref="index"/>
+    <file name="line-crop-u259.png" crc="4220975116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="roman_petre_.png" crc="153636163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vacaroiunicolae.png" crc="4015611705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stolojan.png" crc="4279523628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ciorbeavictor.png" crc="3899455101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radu-vasile.png" crc="3772846597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="isarescu.png" crc="4244667991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="220px-adrian_năstase3.png" crc="424390403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="popescu_tariceanu_calin.png" crc="218467478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emil boc.png" crc="4158687288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mru_58156100.png" crc="302537432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="victor-ponta.png" crc="255602181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dacian-ciolos.png" crc="504463408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grindeanu.png" crc="3926466732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tudose.png" crc="258288686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dancila.png" crc="246294591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u456-6.png" crc="517233272" ref="index"/>
+    <file name="u459-6.png" crc="227497890" ref="index"/>
+    <file name="u462-6.png" crc="4069542901" ref="index"/>
+    <file name="u465-6.png" crc="166024534" ref="index"/>
+    <file name="u468-6.png" crc="4210929642" ref="index"/>
+    <file name="u471-6.png" crc="3824558822" ref="index"/>
+    <file name="u474-6.png" crc="4156871636" ref="index"/>
+    <file name="u477-6.png" crc="4074094691" ref="index"/>
+    <file name="u480-6.png" crc="282501816" ref="index"/>
+    <file name="u483-6.png" crc="6172681" ref="index"/>
+    <file name="u486-6.png" crc="216694145" ref="index"/>
+    <file name="u489-6.png" crc="4197065990" ref="index"/>
+    <file name="u492-6.png" crc="401592589" ref="index"/>
+    <file name="u495-6.png" crc="4095676768" ref="index"/>
+    <file name="u498-6.png" crc="4233146838" ref="index"/>
+    <file name="wordcloudnast.jpg" crc="463658304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u510-21.png" crc="87216121" ref="index"/>
+    <file name="wordcloudtariceanu.jpg" crc="3829530211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u603-23.png" crc="102175293" ref="index"/>
+    <file name="wordcloudboc.jpg" crc="72765970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u614-23.png" crc="3798973668" ref="index"/>
+    <file name="u625-20.png" crc="3874418001" ref="index"/>
+    <file name="wordcloudponta.jpg" crc="384210775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u636-23.png" crc="165202341" ref="index"/>
+    <file name="u647-20.png" crc="3858081624" ref="index"/>
+    <file name="u733-6.png" crc="4210163765" ref="index"/>
+    <file name="legenda.png" crc="4257577699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="324650863" seo="true" mt="1606980916365" redirect="true"/>
+</manifest>
